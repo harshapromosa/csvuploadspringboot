@@ -36,7 +36,7 @@ dependencies {
 
     implementation 'org.springframework.boot:spring-boot-starter-test'
     implementation 'org.springframework.security:spring-security-test'
-	implementation 'mysql:mysql-connector-java:8.0.21'
+	implementation 'mysql:mysql-connector-java:8.0.30'
     compileOnly 'org.projectlombok:lombok'
 	//required for JDK 9 or above
 	implementation 'javax.xml.bind:jaxb-api:2.4.0-b180830.0359'
